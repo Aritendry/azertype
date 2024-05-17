@@ -1,4 +1,4 @@
-const listMot=["Aritendry","Banane","Banana","Peah","mario","Luigi","lamborgabar","Ferrari","chevroletto"]
+const listMot=["Aritendry","Banane","Banana","Peah","mario","Luigi","lamborgabar","Ferrari","chevroletto,"Bambam"]
 
 
 let InputEcriture = document.getElementById("inputecriture")
